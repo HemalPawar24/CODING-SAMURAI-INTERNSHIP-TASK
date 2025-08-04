@@ -1,0 +1,27 @@
+🌸 Iris Flower Classification Using Machine Learning 🌸
+Just completed a hands-on project where I built and evaluated classification models using the classic Iris dataset 🌿
+
+🔍 What I Did:
+• Explored and visualized the dataset
+• Preprocessed features with StandardScaler
+• Trained models using:
+
+K-Nearest Neighbors
+
+Decision Tree Classifier
+• Achieved 100% accuracy on the test set for both models 🎯
+
+🧠 Skills Demonstrated:
+
+Data exploration & cleaning
+
+Model training & evaluation
+
+Confusion matrix and classification report interpretation
+
+Use of Scikit-learn and data visualization libraries
+
+💡 This project strengthened my understanding of supervised learning and showed how effective simple models can be with clean, structured data.
+
+📊 Tools Used: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+
